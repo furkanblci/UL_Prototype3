@@ -1,0 +1,355 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1722264163388772, "dur":17556, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163406336, "dur":98, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163406460, "dur":441, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163407791, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1722264163407953, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1722264163408189, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1722264163408759, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1722264163406933, "dur":2598, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163409532, "dur":200423, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163609956, "dur":336, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163610292, "dur":138, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163610434, "dur":58, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163610635, "dur":1240, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1722264163407165, "dur":2405, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163409574, "dur":822, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163410396, "dur":3405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163413801, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1722264163422532, "dur":1322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1722264163423979, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163425152, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163425233, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163427486, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163427599, "dur":4898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163432564, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163432651, "dur":2512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163435221, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163435306, "dur":4192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163439611, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163439742, "dur":5631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163445419, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163445612, "dur":6181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163451873, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163452035, "dur":5780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163457883, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1722264163457978, "dur":5665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163463695, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163463692, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163463840, "dur":17803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1722264163481696, "dur":128266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163407174, "dur":2404, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163409582, "dur":770, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163410354, "dur":3441, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163413796, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1722264163413990, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163445529, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1722264163447492, "dur":361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163447888, "dur":3821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1722264163451842, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163452045, "dur":5611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1722264163457720, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163457838, "dur":5342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1722264163463225, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1722264163463326, "dur":6287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1722264163469691, "dur":3486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1722264163473226, "dur":136740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163407209, "dur":2395, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163409613, "dur":762, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163410376, "dur":3476, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163413879, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1722264163413854, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1722264163413977, "dur":340, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163447733, "dur":1866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1722264163449743, "dur":4658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722264163454484, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163454614, "dur":6020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722264163460682, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163460756, "dur":5317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1722264163466162, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1722264163466245, "dur":3301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1722264163469610, "dur":4400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1722264163474074, "dur":135916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163407159, "dur":2405, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163409567, "dur":822, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163410389, "dur":3444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163413903, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1722264163413850, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1722264163414103, "dur":350, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163416295, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1722264163417835, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1722264163418458, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1722264163420553, "dur":4217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163424888, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163427413, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163427488, "dur":3353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163430883, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163430961, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163431044, "dur":3009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163434109, "dur":4112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163438249, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163438457, "dur":4836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163443371, "dur":7049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163450485, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163450628, "dur":5505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163456264, "dur":5818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163462181, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1722264163462359, "dur":7502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1722264163469914, "dur":140039, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163407103, "dur":2446, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163409552, "dur":723, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163410276, "dur":3497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163413802, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163413904, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163415218, "dur":2522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1722264163417742, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1722264163418436, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1722264163420036, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1722264163420534, "dur":6822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1722264163427423, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163427502, "dur":3555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163431146, "dur":224, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163431427, "dur":105, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163431541, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163434108, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163434230, "dur":4416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163438695, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163438781, "dur":4748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163443572, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163443663, "dur":6444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163450164, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163450292, "dur":5332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163455675, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163455768, "dur":5853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163461667, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1722264163461782, "dur":7167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1722264163469081, "dur":2568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1722264163471707, "dur":138254, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163407133, "dur":2423, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163409560, "dur":725, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163410285, "dur":3522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163413807, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1722264163420934, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1722264163423476, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163424843, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163427275, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163429643, "dur":3503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163433238, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163433375, "dur":3810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163437223, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163437343, "dur":4200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163441601, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163441697, "dur":7202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163448961, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163449062, "dur":6846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163455954, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163456095, "dur":5521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163461711, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1722264163461792, "dur":8994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1722264163470949, "dur":139022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722264163407073, "dur":2469, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722264163409546, "dur":4201, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722264163414576, "dur":481, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1722264163415061, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1722264163415163, "dur":4769, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1722264163419933, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1722264163420229, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163420314, "dur":201, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163420516, "dur":401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163420918, "dur":1216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163422137, "dur":1115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163423254, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163423497, "dur":538, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\CPN12\\Desktop\\OYUN PROJELER\\prototype3\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1722264163415059, "dur":9234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1722264163424542, "dur":70, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1722264163425095, "dur":180369, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1722264163608842, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1722264163608841, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1722264163608942, "dur":945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163407439, "dur":2312, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163409752, "dur":4048, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163413812, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163413801, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163414007, "dur":416, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163416169, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163417709, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163417706, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163418324, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1722264163419667, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163419665, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163426933, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163419840, "dur":7245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163427195, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163430576, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163430663, "dur":2929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163433695, "dur":3771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163437519, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163437591, "dur":4279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163441931, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163442074, "dur":6648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163449083, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163449304, "dur":308, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163449651, "dur":6749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163456467, "dur":424, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163456913, "dur":5693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163462682, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1722264163462844, "dur":8638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1722264163471537, "dur":138420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163407237, "dur":2380, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163409621, "dur":755, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163410376, "dur":3465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163413842, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1722264163414094, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163416317, "dur":1458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1722264163417818, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1722264163417816, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1722264163418417, "dur":1427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1722264163419956, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3.exe" }}
+,{ "pid":12345, "tid":9, "ts":1722264163422649, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163425794, "dur":2541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163428447, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163428526, "dur":3962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163432610, "dur":315, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163432942, "dur":3796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163436812, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163436916, "dur":4561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163441517, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163441649, "dur":7389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163449153, "dur":4862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163454099, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163454329, "dur":6038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163460445, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1722264163460563, "dur":6253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1722264163467594, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1722264163469727, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1722264163473031, "dur":136927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163407264, "dur":2364, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163409631, "dur":318, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163409949, "dur":3883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163413833, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1722264163413973, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163432456, "dur":1107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1722264163433677, "dur":4030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722264163437810, "dur":4953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722264163442792, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163449502, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163442906, "dur":6683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722264163449684, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163449767, "dur":5123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722264163454946, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163455100, "dur":5368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722264163460515, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1722264163460711, "dur":4588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1722264163465353, "dur":3201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1722264163468616, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1722264163471255, "dur":138695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163407299, "dur":2343, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163409643, "dur":4156, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163413799, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1722264163414076, "dur":360, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163416007, "dur":1865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1722264163417913, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1722264163418606, "dur":747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1722264163419381, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163419380, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163419657, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163421384, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163421905, "dur":3153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163425099, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163425269, "dur":212, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163425490, "dur":3124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163428718, "dur":4063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163432892, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163435234, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163435351, "dur":4152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163439653, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163439783, "dur":5741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163445586, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163445675, "dur":4804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163450559, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163450667, "dur":5596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163456314, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163456431, "dur":5849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163462319, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1722264163462430, "dur":8955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1722264163471437, "dur":138537, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163407343, "dur":2397, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163409741, "dur":4141, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163413882, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1722264163413983, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163446305, "dur":2569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1722264163448922, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163449057, "dur":4616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722264163453800, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163454014, "dur":5477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722264163459538, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1722264163459628, "dur":11953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1722264163471718, "dur":138255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163407463, "dur":2297, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163409760, "dur":4043, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163413813, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1722264163413804, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1722264163413960, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163446633, "dur":283, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163445070, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1722264163447427, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163447683, "dur":3923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1722264163451697, "dur":303, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163452055, "dur":6231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1722264163458374, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1722264163458522, "dur":5195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1722264163463795, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":13, "ts":1722264163468233, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1722264163472175, "dur":137814, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163407498, "dur":2271, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163409769, "dur":4015, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163413804, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1722264163413787, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1722264163413964, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163438490, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":14, "ts":1722264163440059, "dur":177, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163440274, "dur":5934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1722264163446265, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163446353, "dur":7668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1722264163454175, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163454269, "dur":7623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1722264163461984, "dur":165, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1722264163462200, "dur":9513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1722264163471775, "dur":138190, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163407523, "dur":2344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163409868, "dur":3910, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163413805, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":15, "ts":1722264163413783, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":15, "ts":1722264163413930, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163438789, "dur":2201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":15, "ts":1722264163446638, "dur":331, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163441092, "dur":5934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1722264163447385, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163447689, "dur":4079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1722264163451863, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163452050, "dur":7704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1722264163459846, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1722264163459929, "dur":5359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1722264163465414, "dur":5273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1722264163470744, "dur":139208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163407580, "dur":2296, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163409877, "dur":3995, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163413872, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1722264163413967, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163431433, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1722264163433295, "dur":3231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1722264163436576, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163436701, "dur":4443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1722264163441183, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163441269, "dur":7357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1722264163448700, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163448782, "dur":3999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1722264163452845, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163452948, "dur":6193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1722264163459190, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1722264163459372, "dur":5109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1722264163464543, "dur":4383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1722264163469086, "dur":3654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/CPN12/Desktop/Oyun Buildleri/UnityLearnPrototype3/prototype3_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1722264163472788, "dur":137172, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1722264163614305, "dur":1036, "ph":"X", "name": "ProfilerWriteOutput" }
+,
